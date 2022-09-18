@@ -44,3 +44,11 @@
 
 /* Change the background color of the dropdown button when the dropdown content is shown */
 .dropdown:hover .dropbtn {background-color: #3e8e41;}
+
+.ingredients{
+  position: relative;
+  display: inline-block;
+  box-shadow:  5px 7px 20px rgba(0,0,0,0.2);
+  padding-right: 5px;
+  background-color: rgb(128, 128, 128, 0.2);  
+}
