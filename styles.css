@@ -52,3 +52,21 @@
   padding-right: 5px;
   background-color: rgb(128, 128, 128, 0.2);  
 }
+
+.ingredient-steps{
+  float: left;
+  padding-right: 50px;
+}
+
+.instructions{
+  position: relative;
+  display: inline-block;
+  box-shadow: 5px 7px 20px rgba(0,0,0,0.2);
+  background-color:  rgb(128, 128, 128, 0.2);
+  padding-right: 5px;
+}
+
+li{
+  margin: 10px 0px;
+}
+
